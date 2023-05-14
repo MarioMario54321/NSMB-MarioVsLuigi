@@ -252,6 +252,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3211edc9ee1951f4780bd104a9fbd597, type: 2}
   - {fileID: 11400000, guid: 245cea6ccab8e0d47a215ef6df104e09, type: 2}
   - {fileID: 11400000, guid: 2ea8c39849fd3704cb659e2d4ef905c3, type: 2}
+  - {fileID: 11400000, guid: a25be945da9dd864c8436437f76fd369, type: 2}
+  - {fileID: 11400000, guid: 4cba2b540b17b884c992e660c6817c59, type: 2}
+  - {fileID: 11400000, guid: 2dec3493536e98d4ebbe7795904e2631, type: 2}
+  - {fileID: 11400000, guid: 4da2aecc1427040498dfc805f572b047, type: 2}
+  - {fileID: 11400000, guid: 246d0370afe641f49854a7312d5edf3a, type: 2}
+  - {fileID: 11400000, guid: 5d1cd1acb11584f4cb0ccb3fa7cd55c7, type: 2}
   rainbowGradient:
     serializedVersion: 2
     key0: {r: 1, g: 0.13913044, b: 0.11304349, a: 1}
